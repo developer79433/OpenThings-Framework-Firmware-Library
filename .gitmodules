@@ -1,0 +1,3 @@
+[submodule "external/TinyWebsockets"]
+	path = external/TinyWebsockets
+	url = https://github.com/gilmaimon/TinyWebsockets.git

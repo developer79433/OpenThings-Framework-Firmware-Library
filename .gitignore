@@ -5,3 +5,7 @@ CMakeListsPrivate.txt
 private
 OTF-Controller-Library/example/config.h
 *.o
+*.o.static
+*.o.shared
+*.a
+*.so
